@@ -1,42 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Chaluka%20Wanniarachchi&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7C3AED&height=220&section=header&text=Chaluka%20Wanniarachchi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Python%20Developer&descAlignY=60&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+cloud+infrastructure+%E2%98%81%EF%B8%8F;Python+%7C+DevOps+%7C+Automation;CI/CD+Pipeline+Architect+%F0%9F%9A%80;Turning+complex+logs+into+solutions+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems+🚀;Automating+Everything+🤖;CI%2FCD+%7C+Cloud+%7C+DevOps"/>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p align="left">
-        I am a <b>Python Developer</b> and <b>DevOps Engineer</b> based in Sri Lanka, specializing in automating cloud infrastructure and building robust CI/CD pipelines. I thrive on optimizing server performance and making deployments seamless.
-      </p>
-      <p align="left">
-        Currently focusing on: <b>Scaling AWS environments and Container Orchestration.</b>
-      </p>
-    </td>
-    <td width="40%">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-    </td>
-  </tr>
-</table>
+<div style="background-color:#0f0c29; padding:15px; border-radius:12px;">
 
-```python
-class Chaluka:
-    def __init__(self):
-        self.name     = "Chaluka Wanniarachchi"
-        self.role     = ["Python Developer", "DevOps Engineer"]
-        self.location = "Sri Lanka 🇱🇰"
-        self.stack    = {
-            "core": ["Python", "Docker", "AWS"],
-            "config": ["Ansible", "Terraform", "YAML"],
-            "ci_cd": ["Jenkins", "GitHub Actions"]
-        }
+```yaml
+name: Chaluka Wanniarachchi
+role: DevOps Engineer | Python Developer
+location: Sri Lanka 🇱🇰
 
-    def say_hi(self):
-        return "Automating the world, one script at a time."
+focus:
+  - CI/CD Automation
+  - Cloud Infrastructure
+  - Containerization
+```
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center" style="background-color:#0f0c29; padding:20px; border-radius:12px;">
+
+![Python](https://img.shields.io/badge/Python-302b63?style=for-the-badge\&logo=python\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-302b63?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-302b63?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-302b63?style=for-the-badge\&logo=linux\&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-302b63?style=for-the-badge\&logo=ansible\&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wanniarachchichaluka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=FFFFFF&icon_color=7C3AED&text_color=ffffff"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=wanniarachchichaluka&theme=tokyonight&hide_border=true&background=0f0c29&ring=7C3AED"/>
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center" style="background-color:#0f0c29; padding:15px; border-radius:12px;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-302b63?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
