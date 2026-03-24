@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:0d2137,100:0a192f&height=220&section=header&text=Chaluka%20Wanniarachchi&fontSize=44&fontColor=00d4ff&fontAlignY=38&desc=Python%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Network%20Engineering%20Undergraduate&descAlignY=57&descSize=15&animation=fadeIn&descColor=8892b0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,70:0d2137,100:0a192f&height=220&section=header&text=Chaluka%20Wanniarachchi&fontSize=44&fontColor=00d4ff&fontAlignY=38&desc=Python%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Information%20Technology%20Undergraduate&descAlignY=57&descSize=15&animation=fadeIn&descColor=8892b0" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00D4FF&background=0D111700&center=true&vCenter=true&width=720&height=45&lines=Azure+Cloud+%7C+DevOps+%7C+Linux+%7C+Automation+%F0%9F%9A%80;CGPA+3.78+%7C+Dean%27s+List+%F0%9F%8F%86+%7C+Best+Project+Award+%F0%9F%A5%87;Building+infrastructure+that+scales+%F0%9F%94%A7;Turning+coffee+into+pipelines+%E2%98%95)](https://git.io/typing-svg)
 
